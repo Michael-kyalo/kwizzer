@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144161930390",
+    "firebase_url": "https://kwizzer-343b3.firebaseio.com",
+    "project_id": "kwizzer-343b3",
+    "storage_bucket": "kwizzer-343b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144161930390:android:e5652ab27c33ea0cc656b7",
+        "android_client_info": {
+          "package_name": "com.oyeafrica.kwizzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144161930390-1pm6m3olfllklkcf0nd24ukengu7d201.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oyeafrica.kwizzer",
+            "certificate_hash": "8ffc508fa3b2b39afdf94512102218cb194796d9"
+          }
+        },
+        {
+          "client_id": "144161930390-bir1920fc6u2q4dhqfrc6f4k92hblsne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7xm3OYe3isORf9k4n-H3FsoRw6qoaF7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144161930390-bir1920fc6u2q4dhqfrc6f4k92hblsne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

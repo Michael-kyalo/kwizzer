@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kwizzer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="get_started">Start Kwizzing</string>
+    <string name="default_web_client">144161930390-bir1920fc6u2q4dhqfrc6f4k92hblsne.apps.googleusercontent.com</string>
+    <string name="option_button">Option Button</string>
+</resources>
